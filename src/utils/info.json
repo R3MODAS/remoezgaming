@@ -2,13 +2,19 @@
     {
         "id": 1,
         "name": "The Evil Within Config File",
-        "video": "/assets/evil-within-config.mp4",
+        "video": "https://www.youtube.com/embed/j7ojiqhF2NM?si=mQ9ZIgcV-H47mmqe",
         "config_link": "https://www.mediafire.com/file/k4twqoksnqw5hjf/THE_EVIL_WITHIN_LOW_END_CONFIG.zip/file"
     },
     {
         "id": 2,
         "name": "Jujustu Kaisen Cursed Clash Config File",
-        "video": "/assets/jujutsu-kaisen-config.mp4",
+        "video": "https://www.youtube.com/embed/E9xF4vd-qwE?si=Y9mseGq3ppeGU_Hg",
         "config_link": "https://www.mediafire.com/file/v20qc2mzygjw160/JUJUTSU+KAISEN+LOW+END+CONFIG.zip/file"
+    },
+    {
+        "id": 3,
+        "name": "Batman Arkham Knight Config File",
+        "video": "https://www.youtube.com/embed/NoyO6YJePrU?si=D-UxI6ltaAyHNxst",
+        "config_link": "https://www.mediafire.com/file/z11snn8pkgialw8/BATMAN_ARKHAM_KNIGHT_LOW_END_CONFIG.zip/file"
     }
 ]
