@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className='mt-28 container mx-auto px-4 mb-10'>
       <h1 className='font-PoppinsBold text-3xl sm:text-start text-center'>Config Files</h1>
-      <div className='config-cards mt-8 flex items-center gap-8 flex-wrap sm:justify-start justify-center'>
+      <div className='config-cards mt-8 flex items-center gap-12 flex-wrap sm:justify-start justify-center'>
         {
           Config.map((item) => (
             <Link key={item?.id} to={`/config/${item?.id}`} className="config-card hover:scale-95 transition-all cursor-pointer">

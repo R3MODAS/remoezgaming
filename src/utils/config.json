@@ -13,5 +13,10 @@
         "id" : 3,
         "name": "Batman Arkham Knight Config File",
         "thumbnail": "/assets/batman-arkham-knight-thumb.jpg"
+    },
+    {
+        "id" : 4,
+        "name": "Control Config File",
+        "thumbnail": "/assets/control-thumb.jpg"
     }
 ]
