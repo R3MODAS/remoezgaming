@@ -9,7 +9,7 @@ const Home = () => {
         {
           Config.map((item) => (
             <Link key={item?.id} to={`/config/${item?.id}`} className="config-card hover:scale-95 transition-all cursor-pointer">
-              <div className='sm:w-96 w-80 sm:h-56 rounded-lg'>
+              <div className='sm:w-[400px] w-80 sm:h-56 rounded-lg'>
                 <img loading='lazy' className='w-full h-full rounded-lg object-cover' src={item?.thumbnail} alt="evil-within" />
               </div>
               <h2 className='font-PoppinsSemi text-base mt-2'>{item?.name}</h2>

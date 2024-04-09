@@ -18,5 +18,10 @@
         "id" : 4,
         "name": "Control Config File",
         "thumbnail": "/assets/control-thumb.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Stray Config File",
+        "thumbnail": "/assets/stray-thumb.jpg"
     }
 ]
