@@ -28,5 +28,10 @@
         "id": 6,
         "name": "Sekiro Shadows Die Twice Config File",
         "thumbnail": "/assets/sekiro-thumb.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ghostrunner Config File",
+        "thumbnail": "/assets/ghostrunner-thumb.jpg"
     }
 ]
