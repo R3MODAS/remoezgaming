@@ -33,5 +33,10 @@
         "id": 7,
         "name": "Ghostrunner Config File",
         "thumbnail": "/assets/ghostrunner-thumb.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Assassin's Creed IV: Black Flag Config File",
+        "thumbnail": "/assets/ac4-thumb.jpg"
     }
 ]
