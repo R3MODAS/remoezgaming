@@ -38,5 +38,11 @@
         "id": 8,
         "name": "Assassin's Creed IV: Black Flag Config File",
         "thumbnail": "/assets/ac4-thumb.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Just Cause 3 Config File",
+        "thumbnail" : "/assets/justcause3-thumb.jpg"
     }
 ]
+
