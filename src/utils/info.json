@@ -52,5 +52,11 @@
         "name": "Just Cause 3 Config File",
         "video": "https://www.youtube.com/embed/GX9uTIf6h1A?si=aH3jfwGUp-rckbCe",
         "config_link": "https://www.mediafire.com/file/z0oy2ix21ciy3tn/JUST_CAUSE_3_LOW_END_CONFIG.zip/file"
+    },
+    {
+        "id": 10,
+        "name": "State of Decay Config File",
+        "video": "https://www.youtube.com/embed/TF2_5h5WtPw?si=pWFh7-q1-qWamQzK",
+        "config_link": "https://www.mediafire.com/file/heo1wkmlr6st445/STATE_OF_DECAY_LOW_END_CONFIG.zip/file"
     }
 ]

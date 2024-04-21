@@ -43,6 +43,11 @@
         "id": 9,
         "name": "Just Cause 3 Config File",
         "thumbnail" : "/assets/justcause3-thumb.jpg"
+    },
+    {
+        "id": 10,
+        "name": "State of Decay Config File",
+        "thumbnail" : "/assets/stateofdecay-thumb.jpg"
     }
 ]
 
