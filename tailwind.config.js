@@ -13,7 +13,8 @@ export default {
       "PoppinsSemi": ["Poppins Semi"],
       "PoppinsBold": ["Poppins Bold"],
       "PoppinsExtra": ["Poppins Extra"],
-      "PoppinsBlack": ["Poppins Black"]
+      "PoppinsBlack": ["Poppins Black"],
+      "GreatVibesReg" : ["Great Vibes"]
     }
   },
   plugins: [],

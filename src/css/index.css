@@ -51,6 +51,13 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: "Great Vibes";
+    src: url("fonts/GreatVibes-Regular.ttf");
+    font-weight: 400;
+    font-display: swap;
+}
+
 body{
     background-color: #1a1a1a;
     color: white;
