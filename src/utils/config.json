@@ -2,57 +2,57 @@
     {
         "id" : 1,
         "name" : "The Evil Within Config File",
-        "thumbnail" : "src/assets/evil-within-thumb.jpg"
+        "thumbnail" : "/assets/evil-within-thumb.jpg"
     },
     {
         "id": 2,
         "name": "Jujustu Kaisen Cursed Clash Config File",
-        "thumbnail": "src/assets/jujutsu-kaisen-thumb.jpg"
+        "thumbnail": "/assets/jujutsu-kaisen-thumb.jpg"
     },
     {
         "id" : 3,
         "name": "Batman Arkham Knight Config File",
-        "thumbnail": "src/assets/batman-arkham-knight-thumb.jpg"
+        "thumbnail": "/assets/batman-arkham-knight-thumb.jpg"
     },
     {
         "id" : 4,
         "name": "Control Config File",
-        "thumbnail": "src/assets/control-thumb.jpg"
+        "thumbnail": "/assets/control-thumb.jpg"
     },
     {
         "id": 5,
         "name": "Stray Config File",
-        "thumbnail": "src/assets/stray-thumb.jpg"
+        "thumbnail": "/assets/stray-thumb.jpg"
     },
     {
         "id": 6,
         "name": "Sekiro Shadows Die Twice Config File",
-        "thumbnail": "src/assets/sekiro-thumb.jpg"
+        "thumbnail": "/assets/sekiro-thumb.jpg"
     },
     {
         "id": 7,
         "name": "Ghostrunner Config File",
-        "thumbnail": "src/assets/ghostrunner-thumb.jpg"
+        "thumbnail": "/assets/ghostrunner-thumb.jpg"
     },
     {
         "id": 8,
         "name": "Assassin's Creed IV: Black Flag Config File",
-        "thumbnail": "src/assets/ac4-thumb.jpg"
+        "thumbnail": "/assets/ac4-thumb.jpg"
     },
     {
         "id": 9,
         "name": "Just Cause 3 Config File",
-        "thumbnail" : "src/assets/justcause3-thumb.jpg"
+        "thumbnail" : "/assets/justcause3-thumb.jpg"
     },
     {
         "id": 10,
         "name": "State of Decay Config File",
-        "thumbnail" : "src/assets/stateofdecay-thumb.jpg"
+        "thumbnail" : "/assets/stateofdecay-thumb.jpg"
     },
     {
         "id": 11,
         "name": "Thief Config File",
-        "thumbnail" : "src/assets/thief-thumb.jpg"
+        "thumbnail" : "/assets/thief-thumb.jpg"
     }
 ]
 
