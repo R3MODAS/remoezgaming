@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom"
-import logo from "../assets/logo.png"
 
 const Header = () => {
   return (
@@ -7,7 +6,7 @@ const Header = () => {
         <div className="container mx-auto flex justify-between items-center h-full">
           <div className="flex items-center gap-4">
           <Link to="/">
-            <img src={logo} alt="logo" className="rounded-full w-16" />
+            <img src="/assets/logo.png" alt="logo" className="rounded-full w-16" />
           </Link>
             <span className="font-GreatVibesReg text-3xl font-medium">Remo Ez Gaming</span>
           </div>
