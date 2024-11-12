@@ -1,74 +1,86 @@
 [
-    {
-        "id": 1,
-        "name": "The Evil Within Config File",
-        "video": "https://www.youtube.com/embed/j7ojiqhF2NM?si=mQ9ZIgcV-H47mmqe",
-        "config_link": "https://www.mediafire.com/file/k4twqoksnqw5hjf/THE_EVIL_WITHIN_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 2,
-        "name": "Jujustu Kaisen Cursed Clash Config File",
-        "video": "https://www.youtube.com/embed/E9xF4vd-qwE?si=Y9mseGq3ppeGU_Hg",
-        "config_link": "https://www.mediafire.com/file/v20qc2mzygjw160/JUJUTSU+KAISEN+LOW+END+CONFIG.zip/file"
-    },
-    {
-        "id": 3,
-        "name": "Batman Arkham Knight Config File",
-        "video": "https://www.youtube.com/embed/NoyO6YJePrU?si=D-UxI6ltaAyHNxst",
-        "config_link": "https://www.mediafire.com/file/z11snn8pkgialw8/BATMAN_ARKHAM_KNIGHT_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 4,
-        "name": "Control Config File",
-        "video": "https://www.youtube.com/embed/5ME8g1ggkgU?si=f6T-tq9WlU9VqbkN",
-        "config_link": "https://www.mediafire.com/file/ovm2sl6itylu22m/CONTROL_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 5,
-        "name": "Stray Config File",
-        "video": "https://www.youtube.com/embed/J57ecPNk1TQ?si=T_Rp8S4HID6G7Tp4",
-        "config_link": "https://www.mediafire.com/file/eqlzpbhk7w56naw/STRAY_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 6,
-        "name": "Sekiro Shadows Die Twice Config File",
-        "video": "https://www.youtube.com/embed/G5VTOha_VGI?si=j8hRQoNmKDOteTj0",
-        "config_link": "https://www.mediafire.com/file/zsmuiu22o5llp6j/SEKIRO+SHADOWS+DIE+TWICE+LOW+END+CONFIG.zip/file"
-    },
-    {
-        "id": 7,
-        "name": "Ghostrunner Config File",
-        "video": "https://www.youtube.com/embed/hEv5S7fJXI8?si=rSxwhypWxdjXEAIS",
-        "config_link": "https://www.mediafire.com/file/pc0qhafqv8a17hz/GHOSTRUNNER_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 8,
-        "name": "Assassin's Creed IV: Black Flag Config File",
-        "video": "https://www.youtube.com/embed/PDrabP_RdUA?si=EeWQ0oaUHDM7098E",
-        "config_link": "https://www.mediafire.com/file/uph5ybr0bovf9nr/ASSASSINS+CREED+4+BLACK+FLAG+LOW+END+CONFIG.zip/file"
-    },
-    {
-        "id": 9,
-        "name": "Just Cause 3 Config File",
-        "video": "https://www.youtube.com/embed/GX9uTIf6h1A?si=aH3jfwGUp-rckbCe",
-        "config_link": "https://www.mediafire.com/file/z0oy2ix21ciy3tn/JUST_CAUSE_3_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 10,
-        "name": "State of Decay Config File",
-        "video": "https://www.youtube.com/embed/TF2_5h5WtPw?si=pWFh7-q1-qWamQzK",
-        "config_link": "https://www.mediafire.com/file/heo1wkmlr6st445/STATE_OF_DECAY_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 11,
-        "name": "Thief Config File",
-        "video": "https://www.youtube.com/embed/RAEv9YtkQOM?si=3zrNoD1TX1G5Qmaf",
-        "config_link": "https://www.mediafire.com/file/jsy9mg25u2n91m4/THIEF_LOW_END_CONFIG.zip/file"
-    },
-    {
-        "id": 12,
-        "name": "Wuthering Waves Config File",
-        "video": "https://www.youtube.com/embed/hbg65EQ2C1U?si=EnCOt-euzP_pV9aZ",
-        "config_link": "https://www.mediafire.com/file/c4byhuew30y15qs/WUTHERING_WAVES_LOW_END_CONFIG.zip/file"
-    }
+  {
+    "id": 1,
+    "name": "The Evil Within Config File",
+    "video": "https://www.youtube.com/embed/j7ojiqhF2NM?si=mQ9ZIgcV-H47mmqe",
+    "config_link": "https://www.mediafire.com/file/k4twqoksnqw5hjf/THE_EVIL_WITHIN_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 2,
+    "name": "Jujustu Kaisen Cursed Clash Config File",
+    "video": "https://www.youtube.com/embed/E9xF4vd-qwE?si=Y9mseGq3ppeGU_Hg",
+    "config_link": "https://www.mediafire.com/file/v20qc2mzygjw160/JUJUTSU+KAISEN+LOW+END+CONFIG.zip/file"
+  },
+  {
+    "id": 3,
+    "name": "Batman Arkham Knight Config File",
+    "video": "https://www.youtube.com/embed/NoyO6YJePrU?si=D-UxI6ltaAyHNxst",
+    "config_link": "https://www.mediafire.com/file/z11snn8pkgialw8/BATMAN_ARKHAM_KNIGHT_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 4,
+    "name": "Control Config File",
+    "video": "https://www.youtube.com/embed/5ME8g1ggkgU?si=f6T-tq9WlU9VqbkN",
+    "config_link": "https://www.mediafire.com/file/ovm2sl6itylu22m/CONTROL_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 5,
+    "name": "Stray Config File",
+    "video": "https://www.youtube.com/embed/J57ecPNk1TQ?si=T_Rp8S4HID6G7Tp4",
+    "config_link": "https://www.mediafire.com/file/eqlzpbhk7w56naw/STRAY_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 6,
+    "name": "Sekiro Shadows Die Twice Config File",
+    "video": "https://www.youtube.com/embed/G5VTOha_VGI?si=j8hRQoNmKDOteTj0",
+    "config_link": "https://www.mediafire.com/file/zsmuiu22o5llp6j/SEKIRO+SHADOWS+DIE+TWICE+LOW+END+CONFIG.zip/file"
+  },
+  {
+    "id": 7,
+    "name": "Ghostrunner Config File",
+    "video": "https://www.youtube.com/embed/hEv5S7fJXI8?si=rSxwhypWxdjXEAIS",
+    "config_link": "https://www.mediafire.com/file/pc0qhafqv8a17hz/GHOSTRUNNER_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 8,
+    "name": "Assassin's Creed IV: Black Flag Config File",
+    "video": "https://www.youtube.com/embed/PDrabP_RdUA?si=EeWQ0oaUHDM7098E",
+    "config_link": "https://www.mediafire.com/file/uph5ybr0bovf9nr/ASSASSINS+CREED+4+BLACK+FLAG+LOW+END+CONFIG.zip/file"
+  },
+  {
+    "id": 9,
+    "name": "Just Cause 3 Config File",
+    "video": "https://www.youtube.com/embed/GX9uTIf6h1A?si=aH3jfwGUp-rckbCe",
+    "config_link": "https://www.mediafire.com/file/z0oy2ix21ciy3tn/JUST_CAUSE_3_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 10,
+    "name": "State of Decay Config File",
+    "video": "https://www.youtube.com/embed/TF2_5h5WtPw?si=pWFh7-q1-qWamQzK",
+    "config_link": "https://www.mediafire.com/file/heo1wkmlr6st445/STATE_OF_DECAY_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 11,
+    "name": "Thief Config File",
+    "video": "https://www.youtube.com/embed/RAEv9YtkQOM?si=3zrNoD1TX1G5Qmaf",
+    "config_link": "https://www.mediafire.com/file/jsy9mg25u2n91m4/THIEF_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 12,
+    "name": "Wuthering Waves Config File",
+    "video": "https://www.youtube.com/embed/hbg65EQ2C1U?si=EnCOt-euzP_pV9aZ",
+    "config_link": "https://www.mediafire.com/file/c4byhuew30y15qs/WUTHERING_WAVES_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 13,
+    "name": "A Plague Tale: Innocence Config File",
+    "video": "https://www.youtube.com/embed/41U66UZw9K8?si=hxFDzkgx5kySze6S",
+    "config_link": "https://www.mediafire.com/file/747o28dauel39sa/A_PLAGUE_TALE_OF_INNOCENCE_LOW_END_CONFIG.zip/file"
+  },
+  {
+    "id": 14,
+    "name": "Red Dead Redemption Config File",
+    "video": "https://www.youtube.com/embed/uC_8Ll52yxQ?si=yZh8KedcPlrZNace",
+    "config_link": "https://www.mediafire.com/file/9t3kd7nva0ag0gc/RED_DEAD_REDEMPTION_TWEAKS.zip/file"
+  }
 ]
